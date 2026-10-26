@@ -1,6 +1,6 @@
 # Autonomous Robotic Car: Vision Pipeline, Sensor Reflexes, & Full AI Stack
 
-An end-to-end repository combining a **computer vision and path detection pipeline** with an **NVIDIA Jetson hardware and sensor reflex stack** to build a fully autonomous robotic vehicle.
+An end-to-end repository combining a **computer vision and path detection pipeline** with an **NVIDIA Jetson hardware and sensor reflex stack** to build a obstacle avoidance pipeline.
 
 ---
 
