@@ -21,7 +21,8 @@ The project is structured into two main tracks: **Vision Processing & Navigation
   * Calculates image moments on the cropped binary mask to find the path's centroid $(cx, cy)$.
   * Computes raw and normalized error metrics relative to the frame's center.
   * Generates real-time simulated steering commands (`STRAIGHT`, `LEFT`, `RIGHT`) and overlays visual debugging cues.
- 
+
+**Sample Result**
   <img width="1903" height="966" alt="image" src="https://github.com/user-attachments/assets/d4363f3e-8346-46e3-a9e7-c0f4b37fa2cb" />
 
 
